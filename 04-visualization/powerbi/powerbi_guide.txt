@@ -1,0 +1,36 @@
+﻿# Power BI Dashboard Creation Guide
+
+## Step 1: Download Power BI Desktop (Free)
+1. Go to: https://powerbi.microsoft.com/en-us/downloads/
+2. Download Power BI Desktop
+3. Install the application
+
+## Step 2: Connect to Data
+1. Open Power BI Desktop
+2. Click "Get Data" → "Text/CSV"
+3. Navigate to C:\Users\hp\Desktop\victor-analytics-portfolio\04-visualization\data\sales_data.csv
+4. Click "Load"
+
+## Step 3: Create DAX Measures
+Go to "Modeling" tab → "New Measure" and add:
+
+Total Sales = SUM(sales_data[sales_amount])
+
+Total Profit = SUM(sales_data[profit_amount])
+
+Order Count = DISTINCTCOUNT(sales_data[order_id])
+
+Average Order Value = DIVIDE([Total Sales], [Order Count])
+
+Profit Margin = DIVIDE([Total Profit], [Total Sales])
+
+## Step 4: Create Visualizations
+1. Line chart: Date vs Sales
+2. Bar chart: Sales by Region
+3. Treemap: Sales by Category
+4. Table: Top Products
+5. Cards for KPIs
+
+## Step 5: Save and Publish
+1. Save file as sales_dashboard.pbix in the powerbi folder
+2. Publish to Power BI Service (free account required)

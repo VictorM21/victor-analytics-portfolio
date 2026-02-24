@@ -1,0 +1,41 @@
+﻿# Tableau Dashboard Creation Guide
+
+## Step 1: Download Tableau Public (Free)
+1. Go to: https://public.tableau.com/app/discover
+2. Click "Download Tableau Public"
+3. Install the application
+
+## Step 2: Connect to Data
+1. Open Tableau Public
+2. Click "Connect to Data" → "Text File"
+3. Navigate to C:\Users\hp\Desktop\victor-analytics-portfolio\04-visualization\data\sales_data.csv
+4. Click "Open"
+
+## Step 3: Create Key Worksheets
+
+### Worksheet 1: KPI Cards
+1. Drag "sales_amount" to Text
+2. Right-click → Format → Currency
+3. Create calculated fields for YoY growth
+
+### Worksheet 2: Sales Trend
+1. Drag "order_date" to Columns (as continuous month)
+2. Drag "sales_amount" to Rows
+3. Add "category" to Color
+
+### Worksheet 3: Regional Map
+1. Double-click "region" (Tableau will create map)
+2. Drag "sales_amount" to Color
+3. Drag "profit_amount" to Size
+
+### Worksheet 4: Top Products
+1. Drag "product_name" to Rows
+2. Drag "sales_amount" to Columns
+3. Sort descending
+4. Limit to Top 10
+
+## Step 4: Create Dashboard
+1. Click "New Dashboard"
+2. Drag worksheets onto dashboard
+3. Add filters for interactivity
+4. Publish to Tableau Public
