@@ -1,0 +1,11 @@
+﻿Customer_ID,Age,Income,Purchase_Amount,Region,Product_Category,Satisfaction_Score
+1001,25,45000,120.50,North,Electronics,4
+1002,34,62000,89.99,South,Clothing,5
+1003,45,78000,210.00,East,Home Goods,3
+1004,28,52000,45.75,West,Sports,4
+1005,52,95000,350.20,North,Electronics,5
+1006,31,48000,67.30,South,Clothing,4
+1007,29,41000,32.90,East,Sports,2
+1008,41,83000,175.25,West,Home Goods,5
+1009,38,67000,94.80,North,Clothing,3
+1010,47,89000,280.40,South,Electronics,4

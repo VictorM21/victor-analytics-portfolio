@@ -20,6 +20,8 @@ myenv/
 *~
 
 # Data (don't upload large datasets)
+# But keep this specific sample file
+!01-python-eda/sample_sales_data.csv
 *.csv
 *.xlsx
 *.xls
