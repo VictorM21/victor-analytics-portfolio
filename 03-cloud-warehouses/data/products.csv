@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,supplier,unit_price,cost,weight_kg
+1,Toys Product 1,Toys,Toys - Standard,Brand C,Supplier Z,158.61,95.17,3.46
+2,Home & Garden Product 2,Home & Garden,Home & Garden - Budget,Brand B,Supplier Y,386.52,231.91,0.3
+3,Clothing Product 3,Clothing,Clothing - Standard,Brand A,Supplier X,295.29,177.17,0.2
+4,Toys Product 4,Toys,Toys - Budget,Brand A,Supplier Z,163.43,98.06,3.82
+5,Beauty Product 5,Beauty,Beauty - Budget,Brand D,Supplier X,38.26,22.96,4.02
+6,Books Product 6,Books,Books - Premium,Brand B,Supplier Z,84.41,50.65,4.96
+7,Sports Product 7,Sports,Sports - Budget,Brand C,Supplier Z,199.79,119.87,3.86
+8,Toys Product 8,Toys,Toys - Premium,Brand A,Supplier Y,125.31,75.19,3.71
+9,Toys Product 9,Toys,Toys - Standard,Brand C,Supplier Y,119.25,71.55,2.53
+10,Clothing Product 10,Clothing,Clothing - Premium,Brand D,Supplier Z,49.95,29.97,4.01
+11,Sports Product 11,Sports,Sports - Standard,Brand C,Supplier Y,33.7,20.22,2.12
+12,Home & Garden Product 12,Home & Garden,Home & Garden - Standard,Brand C,Supplier Z,370.46,222.28,0.61
+13,Food Product 13,Food,Food - Budget,Brand C,Supplier Z,5.08,3.05,2.9
+14,Electronics Product 14,Electronics,Electronics - Premium,Brand C,Supplier Z,1606.08,963.65,4.65
+15,Home & Garden Product 15,Home & Garden,Home & Garden - Premium,Brand B,Supplier Y,169.78,101.87,3.58
+16,Food Product 16,Food,Food - Budget,Brand B,Supplier Y,13.81,8.29,2.35
+17,Clothing Product 17,Clothing,Clothing - Budget,Brand B,Supplier X,56.37,33.82,3.47
+18,Beauty Product 18,Beauty,Beauty - Premium,Brand A,Supplier Z,77.38,46.43,1.31
+19,Beauty Product 19,Beauty,Beauty - Budget,Brand B,Supplier Y,148.56,89.14,0.62
+20,Toys Product 20,Toys,Toys - Premium,Brand B,Supplier X,143.75,86.25,2.65
+21,Beauty Product 21,Beauty,Beauty - Budget,Brand C,Supplier X,189.56,113.74,2.62
+22,Food Product 22,Food,Food - Premium,Brand C,Supplier X,79.32,47.59,4.85
+23,Beauty Product 23,Beauty,Beauty - Premium,Brand A,Supplier Z,105.02,63.01,4.56
+24,Electronics Product 24,Electronics,Electronics - Standard,Brand B,Supplier Y,1307.85,784.71,2.98
+25,Books Product 25,Books,Books - Standard,Brand D,Supplier Z,80.37,48.22,4.51
+26,Books Product 26,Books,Books - Standard,Brand C,Supplier X,88.26,52.96,4.26
+27,Electronics Product 27,Electronics,Electronics - Budget,Brand B,Supplier Z,931.2,558.72,2.19
+28,Food Product 28,Food,Food - Standard,Brand C,Supplier Z,97.84,58.7,1.24
+29,Beauty Product 29,Beauty,Beauty - Budget,Brand A,Supplier Z,209.28,125.57,2.02
+30,Books Product 30,Books,Books - Budget,Brand B,Supplier Z,32.45,19.47,2.63
+31,Electronics Product 31,Electronics,Electronics - Budget,Brand D,Supplier Y,951.02,570.61,2.58
+32,Toys Product 32,Toys,Toys - Premium,Brand D,Supplier Y,98.33,59.0,2.14
+33,Clothing Product 33,Clothing,Clothing - Budget,Brand C,Supplier X,125.96,75.58,4.96
+34,Electronics Product 34,Electronics,Electronics - Budget,Brand B,Supplier X,1003.17,601.9,4.98
+35,Clothing Product 35,Clothing,Clothing - Standard,Brand D,Supplier Y,245.78,147.47,0.56
+36,Sports Product 36,Sports,Sports - Premium,Brand A,Supplier Y,175.24,105.14,2.59
+37,Sports Product 37,Sports,Sports - Premium,Brand B,Supplier X,209.25,125.55,1.07
+38,Toys Product 38,Toys,Toys - Premium,Brand B,Supplier Y,67.27,40.36,2.95
+39,Toys Product 39,Toys,Toys - Budget,Brand C,Supplier Z,39.03,23.42,3.85
+40,Home & Garden Product 40,Home & Garden,Home & Garden - Premium,Brand D,Supplier Y,202.64,121.58,1.06
+41,Beauty Product 41,Beauty,Beauty - Budget,Brand C,Supplier X,67.09,40.25,1.5
+42,Beauty Product 42,Beauty,Beauty - Budget,Brand A,Supplier X,47.41,28.45,0.78
+43,Home & Garden Product 43,Home & Garden,Home & Garden - Standard,Brand D,Supplier X,219.16,131.5,1.53
+44,Toys Product 44,Toys,Toys - Budget,Brand B,Supplier Z,178.95,107.37,1.85
+45,Toys Product 45,Toys,Toys - Standard,Brand A,Supplier X,78.77,47.26,0.28
+46,Food Product 46,Food,Food - Standard,Brand A,Supplier X,21.46,12.88,2.15
+47,Books Product 47,Books,Books - Standard,Brand C,Supplier Y,33.89,20.33,4.02
+48,Clothing Product 48,Clothing,Clothing - Premium,Brand B,Supplier Z,234.47,140.68,3.03
+49,Home & Garden Product 49,Home & Garden,Home & Garden - Budget,Brand A,Supplier Y,397.76,238.66,1.69
+50,Beauty Product 50,Beauty,Beauty - Premium,Brand B,Supplier X,186.39,111.83,4.36
+51,Sports Product 51,Sports,Sports - Budget,Brand A,Supplier Y,336.7,202.02,1.99
+52,Books Product 52,Books,Books - Budget,Brand C,Supplier X,47.73,28.64,3.39
+53,Books Product 53,Books,Books - Standard,Brand C,Supplier Z,43.39,26.03,1.73
+54,Home & Garden Product 54,Home & Garden,Home & Garden - Premium,Brand C,Supplier Y,776.53,465.92,0.13
+55,Beauty Product 55,Beauty,Beauty - Budget,Brand C,Supplier X,126.95,76.17,1.24
+56,Home & Garden Product 56,Home & Garden,Home & Garden - Premium,Brand A,Supplier Y,405.88,243.53,3.42
+57,Food Product 57,Food,Food - Budget,Brand B,Supplier Z,10.13,6.08,3.73
+58,Sports Product 58,Sports,Sports - Standard,Brand B,Supplier Y,215.15,129.09,4.46
+59,Electronics Product 59,Electronics,Electronics - Budget,Brand B,Supplier X,408.3,244.98,0.4
+60,Beauty Product 60,Beauty,Beauty - Standard,Brand A,Supplier Y,99.89,59.93,0.61
+61,Electronics Product 61,Electronics,Electronics - Standard,Brand A,Supplier Z,891.75,535.05,0.43
+62,Toys Product 62,Toys,Toys - Premium,Brand A,Supplier X,140.47,84.28,1.12
+63,Sports Product 63,Sports,Sports - Budget,Brand A,Supplier Y,145.1,87.06,2.24
+64,Beauty Product 64,Beauty,Beauty - Premium,Brand D,Supplier X,224.57,134.74,3.67
+65,Sports Product 65,Sports,Sports - Budget,Brand B,Supplier Z,350.79,210.47,3.7
+66,Clothing Product 66,Clothing,Clothing - Premium,Brand D,Supplier Z,227.38,136.43,3.09
+67,Clothing Product 67,Clothing,Clothing - Standard,Brand B,Supplier X,20.68,12.41,2.45
+68,Home & Garden Product 68,Home & Garden,Home & Garden - Standard,Brand A,Supplier X,163.47,98.08,4.5
+69,Home & Garden Product 69,Home & Garden,Home & Garden - Budget,Brand B,Supplier Z,711.03,426.62,2.37
+70,Books Product 70,Books,Books - Premium,Brand C,Supplier Y,26.36,15.82,3.14
+71,Toys Product 71,Toys,Toys - Budget,Brand D,Supplier X,105.83,63.5,4.46
+72,Home & Garden Product 72,Home & Garden,Home & Garden - Premium,Brand B,Supplier X,77.85,46.71,3.5
+73,Electronics Product 73,Electronics,Electronics - Premium,Brand D,Supplier Z,1921.97,1153.18,2.81
+74,Books Product 74,Books,Books - Budget,Brand D,Supplier Y,33.28,19.97,2.57
+75,Toys Product 75,Toys,Toys - Standard,Brand D,Supplier Y,40.41,24.25,0.16
+76,Food Product 76,Food,Food - Premium,Brand D,Supplier Y,123.68,74.21,2.26
+77,Books Product 77,Books,Books - Standard,Brand B,Supplier Y,92.51,55.51,2.36
+78,Beauty Product 78,Beauty,Beauty - Budget,Brand C,Supplier Y,142.03,85.22,2.52
+79,Books Product 79,Books,Books - Premium,Brand C,Supplier Y,11.27,6.76,1.66
+80,Beauty Product 80,Beauty,Beauty - Premium,Brand D,Supplier X,119.96,71.98,0.8
+81,Beauty Product 81,Beauty,Beauty - Premium,Brand C,Supplier X,238.84,143.3,2.05
+82,Electronics Product 82,Electronics,Electronics - Premium,Brand B,Supplier Y,1601.35,960.81,3.47
+83,Clothing Product 83,Clothing,Clothing - Standard,Brand C,Supplier X,218.08,130.85,2.24
+84,Electronics Product 84,Electronics,Electronics - Standard,Brand A,Supplier Z,716.12,429.67,2.63
+85,Food Product 85,Food,Food - Standard,Brand D,Supplier Z,9.82,5.89,2.63
+86,Sports Product 86,Sports,Sports - Budget,Brand D,Supplier Y,60.28,36.17,1.6
+87,Beauty Product 87,Beauty,Beauty - Budget,Brand C,Supplier Z,242.66,145.6,0.41
+88,Beauty Product 88,Beauty,Beauty - Premium,Brand A,Supplier X,149.83,89.9,3.83
+89,Books Product 89,Books,Books - Budget,Brand C,Supplier X,22.02,13.21,4.92
+90,Books Product 90,Books,Books - Standard,Brand A,Supplier X,17.49,10.49,2.93
+91,Clothing Product 91,Clothing,Clothing - Budget,Brand C,Supplier Z,293.59,176.15,0.2
+92,Beauty Product 92,Beauty,Beauty - Budget,Brand A,Supplier Y,10.66,6.4,0.11
+93,Food Product 93,Food,Food - Premium,Brand C,Supplier X,75.46,45.28,0.29
+94,Beauty Product 94,Beauty,Beauty - Budget,Brand A,Supplier Y,165.73,99.44,4.15
+95,Electronics Product 95,Electronics,Electronics - Premium,Brand D,Supplier Z,605.71,363.43,2.94
+96,Beauty Product 96,Beauty,Beauty - Standard,Brand B,Supplier Z,153.3,91.98,4.57
+97,Food Product 97,Food,Food - Premium,Brand C,Supplier X,17.07,10.24,0.55
+98,Electronics Product 98,Electronics,Electronics - Standard,Brand A,Supplier X,149.92,89.95,2.53
+99,Toys Product 99,Toys,Toys - Premium,Brand A,Supplier Y,20.19,12.11,0.34
+100,Toys Product 100,Toys,Toys - Budget,Brand D,Supplier X,138.05,82.83,3.46
+101,Sports Product 101,Sports,Sports - Budget,Brand B,Supplier X,359.08,215.45,0.5
+102,Home & Garden Product 102,Home & Garden,Home & Garden - Standard,Brand C,Supplier Z,507.48,304.49,3.97
+103,Beauty Product 103,Beauty,Beauty - Standard,Brand C,Supplier Z,74.57,44.74,1.23
+104,Food Product 104,Food,Food - Budget,Brand D,Supplier Z,51.59,30.95,1.62
+105,Home & Garden Product 105,Home & Garden,Home & Garden - Standard,Brand C,Supplier Z,296.84,178.1,3.28
+106,Electronics Product 106,Electronics,Electronics - Standard,Brand C,Supplier X,598.5,359.1,1.81
+107,Sports Product 107,Sports,Sports - Premium,Brand C,Supplier X,234.38,140.63,4.51
+108,Sports Product 108,Sports,Sports - Budget,Brand B,Supplier Y,138.22,82.93,3.97
+109,Food Product 109,Food,Food - Budget,Brand D,Supplier Y,112.53,67.52,2.71
+110,Food Product 110,Food,Food - Premium,Brand C,Supplier Y,116.23,69.74,2.53
+111,Clothing Product 111,Clothing,Clothing - Standard,Brand C,Supplier Z,246.33,147.8,3.32
+112,Toys Product 112,Toys,Toys - Budget,Brand D,Supplier Z,111.38,66.83,2.59
+113,Books Product 113,Books,Books - Budget,Brand A,Supplier Z,34.56,20.74,0.39
+114,Toys Product 114,Toys,Toys - Premium,Brand C,Supplier Z,108.11,64.87,0.32
+115,Toys Product 115,Toys,Toys - Standard,Brand C,Supplier X,97.18,58.31,2.87
+116,Food Product 116,Food,Food - Standard,Brand C,Supplier X,35.32,21.19,1.65
+117,Beauty Product 117,Beauty,Beauty - Premium,Brand A,Supplier X,186.79,112.07,0.54
+118,Electronics Product 118,Electronics,Electronics - Budget,Brand C,Supplier Z,1826.54,1095.92,4.32
+119,Books Product 119,Books,Books - Standard,Brand C,Supplier Z,46.93,28.16,1.19
+120,Home & Garden Product 120,Home & Garden,Home & Garden - Standard,Brand D,Supplier X,88.81,53.29,2.55
+121,Sports Product 121,Sports,Sports - Budget,Brand D,Supplier Z,49.85,29.91,3.5
+122,Books Product 122,Books,Books - Budget,Brand A,Supplier X,72.39,43.43,4.44
+123,Home & Garden Product 123,Home & Garden,Home & Garden - Standard,Brand C,Supplier X,535.61,321.37,1.8
+124,Beauty Product 124,Beauty,Beauty - Premium,Brand A,Supplier Y,169.05,101.43,4.27
+125,Books Product 125,Books,Books - Premium,Brand D,Supplier Z,59.2,35.52,4.34
+126,Home & Garden Product 126,Home & Garden,Home & Garden - Standard,Brand D,Supplier Z,775.66,465.4,1.35
+127,Books Product 127,Books,Books - Standard,Brand A,Supplier Y,50.22,30.13,0.96
+128,Sports Product 128,Sports,Sports - Premium,Brand D,Supplier Z,469.35,281.61,2.78
+129,Books Product 129,Books,Books - Premium,Brand A,Supplier Y,71.4,42.84,2.21
+130,Beauty Product 130,Beauty,Beauty - Standard,Brand A,Supplier Y,53.96,32.38,1.79
+131,Home & Garden Product 131,Home & Garden,Home & Garden - Premium,Brand D,Supplier Y,508.55,305.13,4.33
+132,Food Product 132,Food,Food - Budget,Brand D,Supplier Z,94.85,56.91,4.97
+133,Beauty Product 133,Beauty,Beauty - Standard,Brand C,Supplier Y,235.77,141.46,1.71
+134,Books Product 134,Books,Books - Standard,Brand A,Supplier X,89.51,53.71,1.46
+135,Clothing Product 135,Clothing,Clothing - Premium,Brand B,Supplier Y,277.06,166.24,4.97
+136,Electronics Product 136,Electronics,Electronics - Budget,Brand D,Supplier X,1397.95,838.77,3.51
+137,Toys Product 137,Toys,Toys - Premium,Brand B,Supplier Y,137.75,82.65,1.95
+138,Sports Product 138,Sports,Sports - Premium,Brand A,Supplier X,270.07,162.04,4.22
+139,Books Product 139,Books,Books - Standard,Brand B,Supplier Y,80.89,48.53,3.62
+140,Toys Product 140,Toys,Toys - Premium,Brand C,Supplier Y,90.32,54.19,2.82
+141,Food Product 141,Food,Food - Premium,Brand B,Supplier X,24.73,14.84,4.83
+142,Beauty Product 142,Beauty,Beauty - Standard,Brand C,Supplier Z,16.77,10.06,1.34
+143,Electronics Product 143,Electronics,Electronics - Premium,Brand A,Supplier Y,1739.46,1043.68,0.27
+144,Home & Garden Product 144,Home & Garden,Home & Garden - Standard,Brand B,Supplier X,376.12,225.67,0.36
+145,Beauty Product 145,Beauty,Beauty - Premium,Brand D,Supplier X,240.45,144.27,2.73
+146,Home & Garden Product 146,Home & Garden,Home & Garden - Standard,Brand C,Supplier Y,248.89,149.33,1.02
+147,Clothing Product 147,Clothing,Clothing - Premium,Brand B,Supplier Z,243.94,146.36,0.47
+148,Electronics Product 148,Electronics,Electronics - Premium,Brand D,Supplier Z,1008.51,605.11,3.82
+149,Electronics Product 149,Electronics,Electronics - Standard,Brand A,Supplier Y,1817.03,1090.22,3.52
+150,Books Product 150,Books,Books - Budget,Brand C,Supplier Z,41.2,24.72,2.07
+151,Sports Product 151,Sports,Sports - Standard,Brand C,Supplier X,192.98,115.79,2.66
+152,Electronics Product 152,Electronics,Electronics - Budget,Brand B,Supplier Y,372.23,223.34,0.78
+153,Home & Garden Product 153,Home & Garden,Home & Garden - Budget,Brand D,Supplier Y,734.45,440.67,2.96
+154,Toys Product 154,Toys,Toys - Budget,Brand C,Supplier Y,169.32,101.59,2.99
+155,Books Product 155,Books,Books - Budget,Brand B,Supplier Z,25.8,15.48,4.22
+156,Books Product 156,Books,Books - Premium,Brand C,Supplier X,50.41,30.25,0.32
+157,Clothing Product 157,Clothing,Clothing - Budget,Brand B,Supplier Z,207.56,124.54,2.75
+158,Beauty Product 158,Beauty,Beauty - Budget,Brand B,Supplier X,31.88,19.13,3.75
+159,Electronics Product 159,Electronics,Electronics - Standard,Brand D,Supplier Z,455.57,273.34,2.24
+160,Books Product 160,Books,Books - Standard,Brand D,Supplier Z,21.41,12.85,2.01
+161,Food Product 161,Food,Food - Budget,Brand C,Supplier X,141.99,85.19,2.41
+162,Beauty Product 162,Beauty,Beauty - Premium,Brand B,Supplier X,187.31,112.39,0.13
+163,Beauty Product 163,Beauty,Beauty - Premium,Brand C,Supplier Y,117.72,70.63,4.85
+164,Electronics Product 164,Electronics,Electronics - Budget,Brand B,Supplier X,843.06,505.84,1.4
+165,Toys Product 165,Toys,Toys - Budget,Brand C,Supplier Y,165.45,99.27,1.29
+166,Food Product 166,Food,Food - Budget,Brand B,Supplier Y,30.16,18.1,2.55
+167,Electronics Product 167,Electronics,Electronics - Standard,Brand B,Supplier Y,159.07,95.44,2.7
+168,Beauty Product 168,Beauty,Beauty - Premium,Brand D,Supplier X,62.4,37.44,3.75
+169,Home & Garden Product 169,Home & Garden,Home & Garden - Standard,Brand D,Supplier X,161.07,96.64,1.63
+170,Home & Garden Product 170,Home & Garden,Home & Garden - Premium,Brand B,Supplier Y,637.27,382.36,1.78
+171,Books Product 171,Books,Books - Budget,Brand B,Supplier Z,91.74,55.04,4.0
+172,Beauty Product 172,Beauty,Beauty - Standard,Brand A,Supplier X,165.82,99.49,2.14
+173,Clothing Product 173,Clothing,Clothing - Budget,Brand D,Supplier Z,120.71,72.43,3.94
+174,Books Product 174,Books,Books - Budget,Brand D,Supplier X,45.98,27.59,2.69
+175,Toys Product 175,Toys,Toys - Premium,Brand C,Supplier Y,85.32,51.19,2.62
+176,Books Product 176,Books,Books - Standard,Brand D,Supplier Z,77.15,46.29,1.22
+177,Home & Garden Product 177,Home & Garden,Home & Garden - Budget,Brand A,Supplier Z,577.99,346.79,0.9
+178,Toys Product 178,Toys,Toys - Standard,Brand D,Supplier X,80.17,48.1,0.15
+179,Food Product 179,Food,Food - Premium,Brand C,Supplier Y,134.22,80.53,2.96
+180,Books Product 180,Books,Books - Standard,Brand C,Supplier X,96.3,57.78,2.49
+181,Electronics Product 181,Electronics,Electronics - Budget,Brand C,Supplier X,1290.55,774.33,0.39
+182,Home & Garden Product 182,Home & Garden,Home & Garden - Premium,Brand B,Supplier X,756.92,454.15,2.92
+183,Electronics Product 183,Electronics,Electronics - Premium,Brand D,Supplier X,1402.93,841.76,4.35
+184,Food Product 184,Food,Food - Premium,Brand B,Supplier Y,25.85,15.51,2.18
+185,Electronics Product 185,Electronics,Electronics - Budget,Brand A,Supplier X,674.91,404.95,2.75
+186,Electronics Product 186,Electronics,Electronics - Standard,Brand B,Supplier X,1895.96,1137.58,2.34
+187,Sports Product 187,Sports,Sports - Standard,Brand A,Supplier X,179.89,107.93,3.22
+188,Beauty Product 188,Beauty,Beauty - Budget,Brand D,Supplier X,127.84,76.7,4.99
+189,Food Product 189,Food,Food - Standard,Brand C,Supplier Y,58.04,34.82,3.51
+190,Books Product 190,Books,Books - Standard,Brand C,Supplier Z,41.81,25.09,1.78
+191,Toys Product 191,Toys,Toys - Premium,Brand C,Supplier Y,195.61,117.37,4.49
+192,Sports Product 192,Sports,Sports - Standard,Brand B,Supplier Z,351.96,211.18,3.58
+193,Clothing Product 193,Clothing,Clothing - Standard,Brand C,Supplier Y,144.07,86.44,4.5
+194,Sports Product 194,Sports,Sports - Premium,Brand C,Supplier X,321.53,192.92,3.72
+195,Toys Product 195,Toys,Toys - Premium,Brand D,Supplier Z,41.53,24.92,3.89
+196,Home & Garden Product 196,Home & Garden,Home & Garden - Premium,Brand D,Supplier Z,626.63,375.98,1.64
+197,Clothing Product 197,Clothing,Clothing - Budget,Brand B,Supplier X,190.87,114.52,1.57
+198,Toys Product 198,Toys,Toys - Budget,Brand C,Supplier Y,105.91,63.55,0.83
+199,Sports Product 199,Sports,Sports - Budget,Brand B,Supplier Y,44.17,26.5,3.19
+200,Books Product 200,Books,Books - Premium,Brand B,Supplier Y,51.69,31.01,4.76
+201,Sports Product 201,Sports,Sports - Standard,Brand B,Supplier X,415.7,249.42,3.65
+202,Clothing Product 202,Clothing,Clothing - Budget,Brand C,Supplier Y,240.02,144.01,0.15
+203,Home & Garden Product 203,Home & Garden,Home & Garden - Standard,Brand B,Supplier Y,478.72,287.23,3.26
+204,Electronics Product 204,Electronics,Electronics - Premium,Brand B,Supplier Z,1172.96,703.78,0.53
+205,Electronics Product 205,Electronics,Electronics - Budget,Brand B,Supplier Y,755.31,453.19,2.44
+206,Toys Product 206,Toys,Toys - Premium,Brand A,Supplier Y,122.85,73.71,4.63
+207,Beauty Product 207,Beauty,Beauty - Standard,Brand A,Supplier X,155.87,93.52,4.02
+208,Sports Product 208,Sports,Sports - Standard,Brand C,Supplier Y,454.51,272.71,0.14
+209,Clothing Product 209,Clothing,Clothing - Premium,Brand B,Supplier Y,287.35,172.41,3.73
+210,Sports Product 210,Sports,Sports - Budget,Brand C,Supplier Y,149.44,89.66,0.44
+211,Sports Product 211,Sports,Sports - Budget,Brand D,Supplier Z,310.39,186.23,0.96
+212,Beauty Product 212,Beauty,Beauty - Standard,Brand A,Supplier X,112.6,67.56,2.52
+213,Books Product 213,Books,Books - Premium,Brand A,Supplier X,83.74,50.24,0.23
+214,Home & Garden Product 214,Home & Garden,Home & Garden - Budget,Brand B,Supplier Z,506.82,304.09,0.51
+215,Sports Product 215,Sports,Sports - Standard,Brand C,Supplier Z,43.73,26.24,0.27
+216,Electronics Product 216,Electronics,Electronics - Budget,Brand A,Supplier Z,1134.31,680.59,1.96
+217,Food Product 217,Food,Food - Standard,Brand B,Supplier X,48.79,29.27,0.67
+218,Clothing Product 218,Clothing,Clothing - Budget,Brand A,Supplier Z,209.31,125.59,0.85
+219,Sports Product 219,Sports,Sports - Standard,Brand B,Supplier X,116.29,69.77,2.27
+220,Home & Garden Product 220,Home & Garden,Home & Garden - Standard,Brand D,Supplier Y,209.8,125.88,0.36
+221,Books Product 221,Books,Books - Budget,Brand A,Supplier Y,97.64,58.58,0.52
+222,Sports Product 222,Sports,Sports - Budget,Brand A,Supplier Z,353.12,211.87,0.66
+223,Beauty Product 223,Beauty,Beauty - Standard,Brand A,Supplier X,79.73,47.84,1.27
+224,Sports Product 224,Sports,Sports - Premium,Brand B,Supplier Y,396.32,237.79,4.77
+225,Books Product 225,Books,Books - Standard,Brand A,Supplier Y,63.32,37.99,0.48
+226,Beauty Product 226,Beauty,Beauty - Standard,Brand A,Supplier Z,194.79,116.87,2.53
+227,Toys Product 227,Toys,Toys - Premium,Brand C,Supplier Z,153.96,92.38,4.31
+228,Beauty Product 228,Beauty,Beauty - Premium,Brand D,Supplier Z,46.49,27.89,1.12
+229,Food Product 229,Food,Food - Premium,Brand D,Supplier Z,8.78,5.27,2.57
+230,Clothing Product 230,Clothing,Clothing - Budget,Brand A,Supplier Y,45.99,27.59,3.88
+231,Beauty Product 231,Beauty,Beauty - Premium,Brand B,Supplier Z,244.37,146.62,3.1
+232,Sports Product 232,Sports,Sports - Standard,Brand D,Supplier X,53.7,32.22,0.17
+233,Books Product 233,Books,Books - Budget,Brand D,Supplier Y,46.23,27.74,3.46
+234,Sports Product 234,Sports,Sports - Premium,Brand B,Supplier X,434.12,260.47,3.48
+235,Electronics Product 235,Electronics,Electronics - Premium,Brand C,Supplier Z,107.09,64.25,4.11
+236,Electronics Product 236,Electronics,Electronics - Premium,Brand C,Supplier Z,1181.0,708.6,0.34
+237,Food Product 237,Food,Food - Premium,Brand B,Supplier Y,33.7,20.22,1.16
+238,Electronics Product 238,Electronics,Electronics - Standard,Brand C,Supplier Z,1608.21,964.93,3.91
+239,Books Product 239,Books,Books - Budget,Brand B,Supplier Z,35.68,21.41,4.39
+240,Home & Garden Product 240,Home & Garden,Home & Garden - Standard,Brand A,Supplier Z,217.42,130.45,2.52
+241,Home & Garden Product 241,Home & Garden,Home & Garden - Standard,Brand B,Supplier Z,433.94,260.36,1.93
+242,Toys Product 242,Toys,Toys - Standard,Brand C,Supplier X,152.4,91.44,1.14
+243,Clothing Product 243,Clothing,Clothing - Standard,Brand A,Supplier X,270.37,162.22,4.6
+244,Home & Garden Product 244,Home & Garden,Home & Garden - Premium,Brand D,Supplier Y,629.28,377.57,2.76
+245,Sports Product 245,Sports,Sports - Standard,Brand B,Supplier Y,285.21,171.13,4.4
+246,Sports Product 246,Sports,Sports - Premium,Brand A,Supplier X,94.05,56.43,1.36
+247,Sports Product 247,Sports,Sports - Standard,Brand C,Supplier Z,220.32,132.19,1.62
+248,Food Product 248,Food,Food - Standard,Brand D,Supplier Z,135.29,81.17,2.45
+249,Books Product 249,Books,Books - Premium,Brand D,Supplier X,18.84,11.3,0.74
+250,Food Product 250,Food,Food - Standard,Brand C,Supplier Y,38.06,22.84,4.46
+251,Beauty Product 251,Beauty,Beauty - Premium,Brand A,Supplier Y,125.39,75.23,1.86
+252,Books Product 252,Books,Books - Premium,Brand A,Supplier Z,10.44,6.26,3.9
+253,Books Product 253,Books,Books - Standard,Brand D,Supplier X,81.93,49.16,2.77
+254,Books Product 254,Books,Books - Budget,Brand D,Supplier X,74.02,44.41,0.46
+255,Food Product 255,Food,Food - Standard,Brand D,Supplier X,22.15,13.29,4.31
+256,Food Product 256,Food,Food - Budget,Brand B,Supplier Y,16.04,9.62,3.77
+257,Electronics Product 257,Electronics,Electronics - Standard,Brand C,Supplier Z,1576.25,945.75,3.19
+258,Food Product 258,Food,Food - Standard,Brand B,Supplier Z,145.85,87.51,2.05
+259,Sports Product 259,Sports,Sports - Standard,Brand B,Supplier Y,205.39,123.23,2.32
+260,Books Product 260,Books,Books - Premium,Brand C,Supplier Z,82.63,49.58,1.44
+261,Toys Product 261,Toys,Toys - Standard,Brand C,Supplier Z,66.95,40.17,2.11
+262,Food Product 262,Food,Food - Premium,Brand A,Supplier X,9.16,5.5,0.55
+263,Food Product 263,Food,Food - Premium,Brand B,Supplier Y,98.31,58.99,3.9
+264,Sports Product 264,Sports,Sports - Standard,Brand D,Supplier Y,485.12,291.07,3.47
+265,Clothing Product 265,Clothing,Clothing - Budget,Brand D,Supplier Z,202.46,121.48,4.37
+266,Sports Product 266,Sports,Sports - Budget,Brand B,Supplier Z,210.52,126.31,1.9
+267,Electronics Product 267,Electronics,Electronics - Standard,Brand D,Supplier X,1887.49,1132.49,4.9
+268,Sports Product 268,Sports,Sports - Budget,Brand A,Supplier Y,147.85,88.71,3.45
+269,Toys Product 269,Toys,Toys - Premium,Brand A,Supplier X,21.13,12.68,2.12
+270,Books Product 270,Books,Books - Premium,Brand B,Supplier Y,87.05,52.23,4.1
+271,Books Product 271,Books,Books - Premium,Brand D,Supplier Y,60.58,36.35,0.27
+272,Food Product 272,Food,Food - Standard,Brand C,Supplier Z,30.04,18.02,3.34
+273,Toys Product 273,Toys,Toys - Premium,Brand C,Supplier X,177.11,106.27,3.01
+274,Toys Product 274,Toys,Toys - Budget,Brand D,Supplier Y,62.19,37.31,2.92
+275,Books Product 275,Books,Books - Premium,Brand D,Supplier Z,22.44,13.46,3.52
+276,Toys Product 276,Toys,Toys - Premium,Brand D,Supplier Y,171.28,102.77,0.93
+277,Electronics Product 277,Electronics,Electronics - Premium,Brand D,Supplier Z,1936.1,1161.66,4.46
+278,Clothing Product 278,Clothing,Clothing - Standard,Brand B,Supplier Y,201.54,120.92,1.6
+279,Books Product 279,Books,Books - Standard,Brand B,Supplier X,72.74,43.64,1.63
+280,Clothing Product 280,Clothing,Clothing - Budget,Brand B,Supplier Z,248.51,149.11,1.22
+281,Home & Garden Product 281,Home & Garden,Home & Garden - Budget,Brand D,Supplier Z,355.37,213.22,0.55
+282,Electronics Product 282,Electronics,Electronics - Standard,Brand A,Supplier Y,153.39,92.03,2.83
+283,Clothing Product 283,Clothing,Clothing - Budget,Brand C,Supplier Z,55.13,33.08,3.31
+284,Beauty Product 284,Beauty,Beauty - Premium,Brand B,Supplier X,107.21,64.33,4.3
+285,Books Product 285,Books,Books - Premium,Brand C,Supplier X,60.35,36.21,3.17
+286,Sports Product 286,Sports,Sports - Standard,Brand B,Supplier Z,173.86,104.32,1.09
+287,Sports Product 287,Sports,Sports - Budget,Brand D,Supplier Z,254.61,152.77,1.86
+288,Food Product 288,Food,Food - Budget,Brand A,Supplier Z,100.47,60.28,1.12
+289,Home & Garden Product 289,Home & Garden,Home & Garden - Standard,Brand D,Supplier Y,349.21,209.53,3.22
+290,Beauty Product 290,Beauty,Beauty - Premium,Brand C,Supplier Z,33.01,19.81,2.85
+291,Clothing Product 291,Clothing,Clothing - Standard,Brand A,Supplier Z,254.02,152.41,4.46
+292,Books Product 292,Books,Books - Budget,Brand A,Supplier Y,16.57,9.94,3.67
+293,Clothing Product 293,Clothing,Clothing - Standard,Brand A,Supplier X,52.48,31.49,1.57
+294,Food Product 294,Food,Food - Standard,Brand A,Supplier X,42.38,25.43,5.0
+295,Sports Product 295,Sports,Sports - Budget,Brand D,Supplier Y,53.67,32.2,4.02
+296,Home & Garden Product 296,Home & Garden,Home & Garden - Standard,Brand D,Supplier X,593.22,355.93,4.8
+297,Toys Product 297,Toys,Toys - Premium,Brand B,Supplier Y,194.46,116.68,5.0
+298,Beauty Product 298,Beauty,Beauty - Budget,Brand D,Supplier Y,242.92,145.75,0.12
+299,Beauty Product 299,Beauty,Beauty - Premium,Brand B,Supplier Y,144.48,86.69,1.29
+300,Toys Product 300,Toys,Toys - Premium,Brand A,Supplier Z,187.31,112.39,3.66
+301,Electronics Product 301,Electronics,Electronics - Premium,Brand B,Supplier Y,1123.67,674.2,2.47
+302,Electronics Product 302,Electronics,Electronics - Budget,Brand D,Supplier Y,1248.28,748.97,3.67
+303,Home & Garden Product 303,Home & Garden,Home & Garden - Standard,Brand B,Supplier Z,446.68,268.01,4.96
+304,Toys Product 304,Toys,Toys - Standard,Brand C,Supplier Y,99.98,59.99,3.81
+305,Home & Garden Product 305,Home & Garden,Home & Garden - Budget,Brand A,Supplier X,780.82,468.49,1.03
+306,Beauty Product 306,Beauty,Beauty - Budget,Brand A,Supplier Y,12.31,7.39,0.33
+307,Sports Product 307,Sports,Sports - Premium,Brand D,Supplier Z,256.52,153.91,3.55
+308,Food Product 308,Food,Food - Budget,Brand B,Supplier X,113.96,68.38,0.28
+309,Electronics Product 309,Electronics,Electronics - Budget,Brand B,Supplier Y,1162.75,697.65,2.57
+310,Home & Garden Product 310,Home & Garden,Home & Garden - Budget,Brand D,Supplier Y,547.74,328.64,3.64
+311,Beauty Product 311,Beauty,Beauty - Budget,Brand B,Supplier Z,217.66,130.6,2.11
+312,Electronics Product 312,Electronics,Electronics - Standard,Brand C,Supplier Y,1712.22,1027.33,2.04
+313,Beauty Product 313,Beauty,Beauty - Standard,Brand D,Supplier Y,41.98,25.19,3.42
+314,Clothing Product 314,Clothing,Clothing - Budget,Brand B,Supplier Z,236.56,141.94,0.6
+315,Books Product 315,Books,Books - Budget,Brand C,Supplier X,54.86,32.92,4.31
+316,Electronics Product 316,Electronics,Electronics - Standard,Brand B,Supplier X,427.97,256.78,0.4
+317,Food Product 317,Food,Food - Standard,Brand B,Supplier X,146.37,87.82,1.16
+318,Food Product 318,Food,Food - Standard,Brand C,Supplier X,101.18,60.71,4.77
+319,Toys Product 319,Toys,Toys - Premium,Brand B,Supplier X,191.2,114.72,3.1
+320,Electronics Product 320,Electronics,Electronics - Standard,Brand C,Supplier X,1998.23,1198.94,3.69
+321,Sports Product 321,Sports,Sports - Standard,Brand C,Supplier X,184.13,110.48,3.27
+322,Books Product 322,Books,Books - Budget,Brand D,Supplier Y,51.85,31.11,0.7
+323,Toys Product 323,Toys,Toys - Premium,Brand D,Supplier Z,146.0,87.6,2.92
+324,Electronics Product 324,Electronics,Electronics - Standard,Brand B,Supplier Y,170.61,102.37,3.64
+325,Food Product 325,Food,Food - Premium,Brand B,Supplier X,92.07,55.24,2.51
+326,Sports Product 326,Sports,Sports - Standard,Brand B,Supplier X,128.12,76.87,2.71
+327,Toys Product 327,Toys,Toys - Premium,Brand B,Supplier Y,143.97,86.38,0.79
+328,Sports Product 328,Sports,Sports - Premium,Brand B,Supplier Y,261.21,156.73,3.78
+329,Sports Product 329,Sports,Sports - Premium,Brand B,Supplier Z,73.45,44.07,2.41
+330,Electronics Product 330,Electronics,Electronics - Budget,Brand C,Supplier X,63.47,38.08,3.31
+331,Books Product 331,Books,Books - Premium,Brand B,Supplier Z,94.2,56.52,2.28
+332,Books Product 332,Books,Books - Premium,Brand B,Supplier Z,27.78,16.67,0.71
+333,Sports Product 333,Sports,Sports - Standard,Brand D,Supplier Z,278.35,167.01,3.85
+334,Clothing Product 334,Clothing,Clothing - Budget,Brand D,Supplier Z,55.81,33.49,3.17
+335,Electronics Product 335,Electronics,Electronics - Premium,Brand D,Supplier X,575.3,345.18,3.0
+336,Toys Product 336,Toys,Toys - Budget,Brand A,Supplier Y,154.26,92.56,4.75
+337,Food Product 337,Food,Food - Budget,Brand D,Supplier Y,83.35,50.01,1.91
+338,Toys Product 338,Toys,Toys - Budget,Brand B,Supplier X,71.83,43.1,1.9
+339,Sports Product 339,Sports,Sports - Budget,Brand B,Supplier Y,245.19,147.11,1.52
+340,Toys Product 340,Toys,Toys - Premium,Brand D,Supplier X,53.16,31.9,3.27
+341,Food Product 341,Food,Food - Standard,Brand B,Supplier Y,80.75,48.45,3.66
+342,Home & Garden Product 342,Home & Garden,Home & Garden - Budget,Brand B,Supplier Z,435.15,261.09,4.03
+343,Electronics Product 343,Electronics,Electronics - Standard,Brand D,Supplier Z,480.85,288.51,3.39
+344,Sports Product 344,Sports,Sports - Premium,Brand C,Supplier X,346.92,208.15,1.27
+345,Clothing Product 345,Clothing,Clothing - Standard,Brand D,Supplier Y,186.28,111.77,4.01
+346,Clothing Product 346,Clothing,Clothing - Budget,Brand A,Supplier X,210.66,126.4,1.72
+347,Food Product 347,Food,Food - Budget,Brand D,Supplier Z,68.21,40.93,3.39
+348,Electronics Product 348,Electronics,Electronics - Standard,Brand B,Supplier Y,836.38,501.83,2.52
+349,Beauty Product 349,Beauty,Beauty - Standard,Brand D,Supplier X,32.47,19.48,0.8
+350,Toys Product 350,Toys,Toys - Premium,Brand A,Supplier X,148.97,89.38,2.69
+351,Home & Garden Product 351,Home & Garden,Home & Garden - Standard,Brand D,Supplier X,269.02,161.41,0.85
+352,Toys Product 352,Toys,Toys - Standard,Brand B,Supplier Z,80.21,48.13,2.26
+353,Sports Product 353,Sports,Sports - Standard,Brand B,Supplier Z,297.06,178.24,3.06
+354,Toys Product 354,Toys,Toys - Standard,Brand A,Supplier X,184.64,110.78,2.83
+355,Toys Product 355,Toys,Toys - Budget,Brand C,Supplier Y,74.27,44.56,1.88
+356,Toys Product 356,Toys,Toys - Standard,Brand A,Supplier Z,51.7,31.02,2.5
+357,Electronics Product 357,Electronics,Electronics - Budget,Brand A,Supplier X,154.47,92.68,3.34
+358,Beauty Product 358,Beauty,Beauty - Standard,Brand D,Supplier X,235.6,141.36,3.45
+359,Home & Garden Product 359,Home & Garden,Home & Garden - Standard,Brand D,Supplier X,300.21,180.13,3.63
+360,Home & Garden Product 360,Home & Garden,Home & Garden - Budget,Brand B,Supplier Y,160.91,96.55,4.6
+361,Beauty Product 361,Beauty,Beauty - Premium,Brand A,Supplier Y,74.3,44.58,3.37
+362,Electronics Product 362,Electronics,Electronics - Budget,Brand A,Supplier X,1604.05,962.43,3.06
+363,Books Product 363,Books,Books - Standard,Brand D,Supplier Z,59.38,35.63,4.85
+364,Electronics Product 364,Electronics,Electronics - Premium,Brand B,Supplier Y,1508.19,904.91,1.62
+365,Beauty Product 365,Beauty,Beauty - Budget,Brand B,Supplier Z,195.65,117.39,2.4
+366,Toys Product 366,Toys,Toys - Budget,Brand C,Supplier X,128.6,77.16,2.47
+367,Food Product 367,Food,Food - Budget,Brand A,Supplier Z,120.27,72.16,1.07
+368,Clothing Product 368,Clothing,Clothing - Standard,Brand C,Supplier Z,277.17,166.3,4.75
+369,Clothing Product 369,Clothing,Clothing - Standard,Brand D,Supplier X,24.05,14.43,3.61
+370,Food Product 370,Food,Food - Budget,Brand C,Supplier Y,68.12,40.87,4.58
+371,Sports Product 371,Sports,Sports - Premium,Brand D,Supplier Z,352.12,211.27,4.42
+372,Toys Product 372,Toys,Toys - Budget,Brand A,Supplier Z,39.19,23.51,1.73
+373,Food Product 373,Food,Food - Premium,Brand B,Supplier Y,54.99,32.99,2.76
+374,Books Product 374,Books,Books - Standard,Brand A,Supplier Z,76.61,45.97,2.69
+375,Sports Product 375,Sports,Sports - Standard,Brand B,Supplier Y,488.92,293.35,1.84
+376,Food Product 376,Food,Food - Budget,Brand B,Supplier Z,78.68,47.21,0.3
+377,Home & Garden Product 377,Home & Garden,Home & Garden - Premium,Brand B,Supplier X,605.12,363.07,0.32
+378,Food Product 378,Food,Food - Budget,Brand B,Supplier Y,45.66,27.4,4.66
+379,Books Product 379,Books,Books - Premium,Brand C,Supplier Y,79.71,47.83,2.69
+380,Toys Product 380,Toys,Toys - Premium,Brand B,Supplier X,47.71,28.63,3.46
+381,Food Product 381,Food,Food - Premium,Brand D,Supplier X,9.67,5.8,0.13
+382,Electronics Product 382,Electronics,Electronics - Standard,Brand D,Supplier Z,458.68,275.21,1.52
+383,Food Product 383,Food,Food - Standard,Brand A,Supplier X,5.1,3.06,2.44
+384,Books Product 384,Books,Books - Standard,Brand D,Supplier Z,49.72,29.83,4.58
+385,Clothing Product 385,Clothing,Clothing - Premium,Brand D,Supplier X,203.98,122.39,1.01
+386,Clothing Product 386,Clothing,Clothing - Premium,Brand B,Supplier Z,247.5,148.5,2.92
+387,Food Product 387,Food,Food - Standard,Brand D,Supplier Z,106.32,63.79,2.56
+388,Clothing Product 388,Clothing,Clothing - Budget,Brand A,Supplier X,198.77,119.26,3.96
+389,Books Product 389,Books,Books - Budget,Brand B,Supplier X,21.04,12.62,1.16
+390,Home & Garden Product 390,Home & Garden,Home & Garden - Standard,Brand D,Supplier X,680.72,408.43,0.59
+391,Sports Product 391,Sports,Sports - Standard,Brand A,Supplier X,269.92,161.95,0.92
+392,Toys Product 392,Toys,Toys - Standard,Brand B,Supplier Z,160.3,96.18,0.16
+393,Electronics Product 393,Electronics,Electronics - Standard,Brand C,Supplier Y,183.73,110.24,0.56
+394,Clothing Product 394,Clothing,Clothing - Budget,Brand A,Supplier Y,275.14,165.08,3.76
+395,Clothing Product 395,Clothing,Clothing - Budget,Brand A,Supplier X,187.37,112.42,4.58
+396,Toys Product 396,Toys,Toys - Standard,Brand C,Supplier X,21.69,13.01,2.92
+397,Sports Product 397,Sports,Sports - Budget,Brand D,Supplier Z,420.82,252.49,2.25
+398,Food Product 398,Food,Food - Standard,Brand A,Supplier Y,120.27,72.16,0.14
+399,Electronics Product 399,Electronics,Electronics - Budget,Brand B,Supplier Z,1301.92,781.15,4.27
+400,Home & Garden Product 400,Home & Garden,Home & Garden - Budget,Brand C,Supplier X,608.43,365.06,2.5
+401,Clothing Product 401,Clothing,Clothing - Premium,Brand B,Supplier Z,188.05,112.83,1.18
+402,Home & Garden Product 402,Home & Garden,Home & Garden - Premium,Brand C,Supplier Z,87.15,52.29,1.83
+403,Home & Garden Product 403,Home & Garden,Home & Garden - Standard,Brand A,Supplier Z,62.41,37.45,0.36
+404,Sports Product 404,Sports,Sports - Budget,Brand A,Supplier Y,252.05,151.23,2.53
+405,Toys Product 405,Toys,Toys - Budget,Brand D,Supplier Y,86.29,51.77,2.75
+406,Food Product 406,Food,Food - Premium,Brand B,Supplier Y,62.92,37.75,3.97
+407,Home & Garden Product 407,Home & Garden,Home & Garden - Budget,Brand B,Supplier X,585.03,351.02,4.97
+408,Toys Product 408,Toys,Toys - Standard,Brand C,Supplier Y,189.49,113.69,3.4
+409,Home & Garden Product 409,Home & Garden,Home & Garden - Budget,Brand D,Supplier X,114.83,68.9,4.17
+410,Clothing Product 410,Clothing,Clothing - Premium,Brand B,Supplier Z,171.77,103.06,3.58
+411,Sports Product 411,Sports,Sports - Budget,Brand B,Supplier X,440.53,264.32,0.39
+412,Toys Product 412,Toys,Toys - Budget,Brand D,Supplier Z,81.08,48.65,3.63
+413,Home & Garden Product 413,Home & Garden,Home & Garden - Premium,Brand B,Supplier X,75.87,45.52,3.97
+414,Toys Product 414,Toys,Toys - Budget,Brand A,Supplier X,126.01,75.61,4.42
+415,Food Product 415,Food,Food - Budget,Brand D,Supplier Z,96.82,58.09,0.34
+416,Books Product 416,Books,Books - Standard,Brand B,Supplier X,42.34,25.4,0.42
+417,Electronics Product 417,Electronics,Electronics - Standard,Brand A,Supplier Z,1692.97,1015.78,0.7
+418,Books Product 418,Books,Books - Budget,Brand A,Supplier Y,79.84,47.9,1.35
+419,Food Product 419,Food,Food - Budget,Brand A,Supplier Z,126.78,76.07,3.09
+420,Clothing Product 420,Clothing,Clothing - Budget,Brand B,Supplier Y,91.86,55.12,2.18
+421,Toys Product 421,Toys,Toys - Budget,Brand C,Supplier X,63.77,38.26,4.12
+422,Electronics Product 422,Electronics,Electronics - Budget,Brand C,Supplier Z,1201.71,721.03,0.27
+423,Home & Garden Product 423,Home & Garden,Home & Garden - Standard,Brand C,Supplier Y,563.08,337.85,2.05
+424,Sports Product 424,Sports,Sports - Budget,Brand C,Supplier Z,350.02,210.01,3.3
+425,Beauty Product 425,Beauty,Beauty - Budget,Brand C,Supplier X,71.89,43.13,1.59
+426,Electronics Product 426,Electronics,Electronics - Standard,Brand D,Supplier Z,616.19,369.71,2.27
+427,Food Product 427,Food,Food - Premium,Brand C,Supplier Y,30.98,18.59,2.09
+428,Food Product 428,Food,Food - Budget,Brand C,Supplier X,92.7,55.62,0.32
+429,Food Product 429,Food,Food - Standard,Brand D,Supplier X,141.03,84.62,2.67
+430,Food Product 430,Food,Food - Standard,Brand D,Supplier Z,22.9,13.74,1.67
+431,Electronics Product 431,Electronics,Electronics - Budget,Brand D,Supplier X,312.76,187.66,3.08
+432,Beauty Product 432,Beauty,Beauty - Premium,Brand A,Supplier Y,239.76,143.86,2.0
+433,Food Product 433,Food,Food - Premium,Brand C,Supplier Z,68.13,40.88,2.66
+434,Books Product 434,Books,Books - Standard,Brand D,Supplier Y,82.71,49.63,3.29
+435,Clothing Product 435,Clothing,Clothing - Standard,Brand B,Supplier Y,130.83,78.5,3.76
+436,Books Product 436,Books,Books - Premium,Brand C,Supplier Y,14.03,8.42,4.76
+437,Sports Product 437,Sports,Sports - Premium,Brand C,Supplier X,66.2,39.72,1.44
+438,Sports Product 438,Sports,Sports - Standard,Brand D,Supplier X,186.6,111.96,0.1
+439,Toys Product 439,Toys,Toys - Budget,Brand C,Supplier Z,152.85,91.71,2.01
+440,Clothing Product 440,Clothing,Clothing - Premium,Brand C,Supplier X,146.73,88.04,1.76
+441,Home & Garden Product 441,Home & Garden,Home & Garden - Standard,Brand B,Supplier Y,36.36,21.82,1.08
+442,Clothing Product 442,Clothing,Clothing - Premium,Brand C,Supplier Y,72.76,43.66,4.6
+443,Electronics Product 443,Electronics,Electronics - Budget,Brand B,Supplier Y,692.3,415.38,3.35
+444,Sports Product 444,Sports,Sports - Budget,Brand A,Supplier X,95.98,57.59,3.06
+445,Home & Garden Product 445,Home & Garden,Home & Garden - Budget,Brand C,Supplier Y,739.44,443.66,4.46
+446,Sports Product 446,Sports,Sports - Standard,Brand A,Supplier Y,369.63,221.78,4.32
+447,Beauty Product 447,Beauty,Beauty - Standard,Brand B,Supplier Z,132.88,79.73,4.23
+448,Beauty Product 448,Beauty,Beauty - Standard,Brand B,Supplier Z,220.23,132.14,4.38
+449,Electronics Product 449,Electronics,Electronics - Premium,Brand A,Supplier Y,1524.83,914.9,4.66
+450,Home & Garden Product 450,Home & Garden,Home & Garden - Premium,Brand D,Supplier Z,205.63,123.38,4.71
+451,Clothing Product 451,Clothing,Clothing - Budget,Brand A,Supplier X,160.63,96.38,4.04
+452,Food Product 452,Food,Food - Standard,Brand B,Supplier Y,26.84,16.1,1.78
+453,Beauty Product 453,Beauty,Beauty - Budget,Brand D,Supplier X,134.64,80.78,3.43
+454,Toys Product 454,Toys,Toys - Standard,Brand C,Supplier Y,108.23,64.94,4.35
+455,Food Product 455,Food,Food - Budget,Brand C,Supplier Z,35.92,21.55,2.66
+456,Home & Garden Product 456,Home & Garden,Home & Garden - Standard,Brand B,Supplier Y,180.47,108.28,1.62
+457,Home & Garden Product 457,Home & Garden,Home & Garden - Standard,Brand B,Supplier Y,128.76,77.26,0.67
+458,Beauty Product 458,Beauty,Beauty - Budget,Brand B,Supplier Z,242.8,145.68,0.22
+459,Electronics Product 459,Electronics,Electronics - Standard,Brand C,Supplier Y,1970.56,1182.34,1.23
+460,Home & Garden Product 460,Home & Garden,Home & Garden - Standard,Brand B,Supplier X,423.3,253.98,4.94
+461,Beauty Product 461,Beauty,Beauty - Standard,Brand D,Supplier Y,105.21,63.13,3.57
+462,Home & Garden Product 462,Home & Garden,Home & Garden - Standard,Brand C,Supplier Y,446.06,267.64,3.56
+463,Beauty Product 463,Beauty,Beauty - Budget,Brand B,Supplier X,28.97,17.38,3.17
+464,Toys Product 464,Toys,Toys - Budget,Brand B,Supplier Z,53.41,32.05,4.57
+465,Toys Product 465,Toys,Toys - Premium,Brand C,Supplier Z,126.77,76.06,0.77
+466,Home & Garden Product 466,Home & Garden,Home & Garden - Budget,Brand A,Supplier Y,103.37,62.02,4.22
+467,Clothing Product 467,Clothing,Clothing - Standard,Brand B,Supplier X,91.94,55.16,3.21
+468,Clothing Product 468,Clothing,Clothing - Standard,Brand A,Supplier Y,24.26,14.56,4.62
+469,Toys Product 469,Toys,Toys - Budget,Brand D,Supplier Y,41.33,24.8,1.83
+470,Beauty Product 470,Beauty,Beauty - Premium,Brand B,Supplier X,84.85,50.91,3.02
+471,Beauty Product 471,Beauty,Beauty - Premium,Brand C,Supplier X,33.2,19.92,1.21
+472,Sports Product 472,Sports,Sports - Budget,Brand D,Supplier X,446.4,267.84,3.15
+473,Beauty Product 473,Beauty,Beauty - Premium,Brand A,Supplier Z,16.84,10.1,1.11
+474,Books Product 474,Books,Books - Standard,Brand D,Supplier Y,30.37,18.22,3.72
+475,Toys Product 475,Toys,Toys - Budget,Brand D,Supplier Z,165.54,99.32,0.44
+476,Clothing Product 476,Clothing,Clothing - Standard,Brand D,Supplier X,254.6,152.76,4.75
+477,Home & Garden Product 477,Home & Garden,Home & Garden - Budget,Brand B,Supplier Y,119.01,71.41,3.07
+478,Sports Product 478,Sports,Sports - Premium,Brand B,Supplier Y,241.76,145.06,4.52
+479,Electronics Product 479,Electronics,Electronics - Premium,Brand B,Supplier X,1907.53,1144.52,0.88
+480,Home & Garden Product 480,Home & Garden,Home & Garden - Budget,Brand C,Supplier Y,206.42,123.85,2.83
+481,Beauty Product 481,Beauty,Beauty - Standard,Brand B,Supplier Z,13.31,7.99,0.68
+482,Books Product 482,Books,Books - Budget,Brand B,Supplier Y,75.87,45.52,2.82
+483,Books Product 483,Books,Books - Budget,Brand D,Supplier Y,51.38,30.83,0.13
+484,Electronics Product 484,Electronics,Electronics - Standard,Brand D,Supplier Y,481.3,288.78,2.07
+485,Electronics Product 485,Electronics,Electronics - Standard,Brand D,Supplier Z,1360.81,816.49,0.78
+486,Home & Garden Product 486,Home & Garden,Home & Garden - Premium,Brand B,Supplier X,122.51,73.51,2.95
+487,Sports Product 487,Sports,Sports - Budget,Brand D,Supplier Z,432.89,259.73,0.91
+488,Books Product 488,Books,Books - Premium,Brand D,Supplier Y,78.63,47.18,3.57
+489,Sports Product 489,Sports,Sports - Premium,Brand A,Supplier Y,309.38,185.63,3.64
+490,Toys Product 490,Toys,Toys - Standard,Brand B,Supplier Z,134.11,80.47,3.83
+491,Food Product 491,Food,Food - Standard,Brand A,Supplier Y,63.13,37.88,2.76
+492,Sports Product 492,Sports,Sports - Premium,Brand C,Supplier Z,69.89,41.93,4.58
+493,Sports Product 493,Sports,Sports - Budget,Brand C,Supplier Z,499.28,299.57,4.4
+494,Clothing Product 494,Clothing,Clothing - Budget,Brand C,Supplier Y,51.49,30.89,1.82
+495,Home & Garden Product 495,Home & Garden,Home & Garden - Premium,Brand A,Supplier X,774.49,464.69,4.38
+496,Sports Product 496,Sports,Sports - Budget,Brand A,Supplier Y,247.15,148.29,3.81
+497,Electronics Product 497,Electronics,Electronics - Budget,Brand B,Supplier Y,648.51,389.11,1.34
+498,Clothing Product 498,Clothing,Clothing - Standard,Brand C,Supplier Z,43.29,25.97,1.81
+499,Toys Product 499,Toys,Toys - Budget,Brand C,Supplier Z,151.55,90.93,4.67
+500,Home & Garden Product 500,Home & Garden,Home & Garden - Premium,Brand D,Supplier Z,86.4,51.84,3.8

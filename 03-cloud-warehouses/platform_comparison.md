@@ -1,14 +1,14 @@
-\# BigQuery vs Snowflake: Platform Comparison
+\ BigQuery vs Snowflake: Platform Comparison
 
 
 
-\## 📊 Overview
+\ 📊 Overview
 
 This document compares Google BigQuery and Snowflake based on hands-on experience with the same dataset.
 
 
 
-\## 🏗️ Architecture Comparison
+\ 🏗️ Architecture Comparison
 
 
 
@@ -16,27 +16,27 @@ This document compares Google BigQuery and Snowflake based on hands-on experienc
 
 |---------|----------|-----------|
 
-| \*\*Architecture\*\* | Serverless, columnar storage | Multi-cluster, shared data |
+| \\Architecture\\ | Serverless, columnar storage | Multi-cluster, shared data |
 
-| \*\*Storage\*\* | Columnar (Capacitor) | Columnar (Micro-partitions) |
+| \\Storage\\ | Columnar (Capacitor) | Columnar (Micro-partitions) |
 
-| \*\*Compute\*\* | Slot-based (on-demand or flat-rate) | Virtual warehouses (XS to 6XL) |
+| \\Compute\\ | Slot-based (on-demand or flat-rate) | Virtual warehouses (XS to 6XL) |
 
-| \*\*Pricing Model\*\* | $5 per TB scanned + storage | Compute credits + storage |
+| \\Pricing Model\\ | $5 per TB scanned + storage | Compute credits + storage |
 
-| \*\*Separation\*\* | Compute and storage separated | Complete separation |
+| \\Separation\\ | Compute and storage separated | Complete separation |
 
-| \*\*Clustering\*\* | Automatic with options | Manual with clustering keys |
+| \\Clustering\\ | Automatic with options | Manual with clustering keys |
 
-| \*\*Caching\*\* | Query results cached for 24h | Result caching for 24h |
-
-
-
-\## 🔧 Setup Experience
+| \\Caching\\ | Query results cached for 24h | Result caching for 24h |
 
 
 
-\### BigQuery
+\ 🔧 Setup Experience
+
+
+
+\ BigQuery
 
 \- Google Cloud Console access required
 
@@ -50,7 +50,7 @@ This document compares Google BigQuery and Snowflake based on hands-on experienc
 
 
 
-\### Snowflake
+\ Snowflake
 
 \- Web UI or SnowSQL client
 
@@ -64,7 +64,7 @@ This document compares Google BigQuery and Snowflake based on hands-on experienc
 
 
 
-\## 📝 SQL Syntax Differences
+\ 📝 SQL Syntax Differences
 
 
 
@@ -88,11 +88,11 @@ This document compares Google BigQuery and Snowflake based on hands-on experienc
 
 
 
-\## ⚡ Performance Comparison
+\ ⚡ Performance Comparison
 
 
 
-\### BigQuery Strengths
+\ BigQuery Strengths
 
 \- Faster for full-table scans
 
@@ -106,7 +106,7 @@ This document compares Google BigQuery and Snowflake based on hands-on experienc
 
 
 
-\### Snowflake Strengths
+\ Snowflake Strengths
 
 \- Better for mixed workloads
 
@@ -120,15 +120,15 @@ This document compares Google BigQuery and Snowflake based on hands-on experienc
 
 
 
-\## 💰 Cost Optimization Tips
+\ 💰 Cost Optimization Tips
 
 
 
-\### BigQuery
+\ BigQuery
 
 \- Use clustered tables for common filters
 
-\- Avoid SELECT \* (scan all columns)
+\- Avoid SELECT \ (scan all columns)
 
 \- Use partitioned tables for date-filtered queries
 
@@ -138,7 +138,7 @@ This document compares Google BigQuery and Snowflake based on hands-on experienc
 
 
 
-\### Snowflake
+\ Snowflake
 
 \- Use auto-suspend for warehouses (5-10 minutes)
 
@@ -152,11 +152,11 @@ This document compares Google BigQuery and Snowflake based on hands-on experienc
 
 
 
-\## 🚀 Getting Started Guides
+\ 🚀 Getting Started Guides
 
 
 
-\### BigQuery Setup
+\ BigQuery Setup
 
 ```sql
 

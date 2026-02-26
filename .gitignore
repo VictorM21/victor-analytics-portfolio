@@ -1,41 +1,41 @@
-﻿# Python
+﻿ Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+.pyc
+.pyo
+.pyd
 .pytest_cache/
 .ipynb_checkpoints/
 
-# Virtual Environment
+ Virtual Environment
 venv/
 env/
 ENV/
 myenv/
 
-# IDE
+ IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
+.swp
+.swo
+~
 
-# Data (don't upload large datasets)
-# But keep this specific sample file
+ Data (don't upload large datasets)
+ But keep this specific sample file
 !01-python-eda/sample_sales_data.csv
-*.csv
-*.xlsx
-*.xls
-*.db
-*.sqlite
-*.parquet
+.csv
+.xlsx
+.xls
+.db
+.sqlite
+.parquet
 
-# Jupyter Notebook checkpoints
+ Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# OS files
+ OS files
 .DS_Store
 Thumbs.db
 
-# Local config
+ Local config
 .env
-*.log
+.log

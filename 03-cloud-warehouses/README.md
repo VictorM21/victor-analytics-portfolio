@@ -1,28 +1,28 @@
 @"
 
-\# Cloud Data Warehouses Portfolio
+&nbsp;Cloud Data Warehouses Portfolio
 
 
 
-\## 📋 Overview
+&nbsp;📋 Overview
 
 This project demonstrates proficiency with cloud data warehouses by comparing Google BigQuery and Snowflake using a realistic e-commerce dataset.
 
 
 
-\## 📁 Dataset
+&nbsp;📁 Dataset
 
-\- \*\*Customers\*\*: 10,000 customer records with segmentation
+\- Customers: 10,000 customer records with segmentation
 
-\- \*\*Products\*\*: 500 products across 8 categories
+\- Products: 500 products across 8 categories
 
-\- \*\*Orders\*\*: 100,000 orders (3 years of data)
+\- Orders: 100,000 orders (3 years of data)
 
-\- \*\*Order Items\*\*: ~300,000 line items
+\- Order Items: ~300,000 line items
 
 
 
-\## ❄️ Snowflake Queries
+&nbsp;❄️ Snowflake Queries
 
 \- Time-series analysis with rolling windows
 
@@ -38,7 +38,7 @@ This project demonstrates proficiency with cloud data warehouses by comparing Go
 
 
 
-\## 🔷 BigQuery Queries
+&nbsp;🔷 BigQuery Queries
 
 \- Monthly trends with YoY comparison
 
@@ -54,7 +54,7 @@ This project demonstrates proficiency with cloud data warehouses by comparing Go
 
 
 
-\## 📊 Platform Comparison
+&nbsp;📊 Platform Comparison
 
 \- Architecture differences
 
@@ -70,7 +70,7 @@ This project demonstrates proficiency with cloud data warehouses by comparing Go
 
 
 
-\## 🛠️ Skills Demonstrated
+&nbsp;🛠️ Skills Demonstrated
 
 \- Cloud data warehouse concepts
 
@@ -86,7 +86,7 @@ This project demonstrates proficiency with cloud data warehouses by comparing Go
 
 
 
-\## 🚀 How to Use
+&nbsp;🚀 How to Use
 
 1\. Sign up for BigQuery (free tier) and/or Snowflake (trial)
 
@@ -100,7 +100,7 @@ This project demonstrates proficiency with cloud data warehouses by comparing Go
 
 
 
-\## 👨‍💻 Author
+&nbsp;👨‍💻 Author
 
 Victor Makanju
 

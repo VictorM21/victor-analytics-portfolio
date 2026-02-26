@@ -1,0 +1,14 @@
+Metric,Value
+Experiment Name,Website Redesign Test
+Control Conversions,636
+Treatment Conversions,718
+Control Rate,11.68%
+Treatment Rate,13.19%
+Absolute Difference,+1.51%
+Relative Improvement,+12.89%
+P-Value,0.0172
+Statistically Significant,Yes
+Confidence Level,95%
+CI Lower,0.27%
+CI Upper,2.75%
+Observed Power,66.3%
