@@ -1,0 +1,3 @@
+customer_id,contract,tenure,monthly_charges,internet_service,payment_method,prediction,probability,risk_level
+CUST-HIGH-001,Month-to-month,2,95.5,Fiber optic,Electronic check,Stay,0.0%,LOW
+CUST-LOW-002,Two year,48,85.75,DSL,Credit card,Stay,0.0%,LOW
