@@ -1,0 +1,4 @@
+product_id,current_price,recommended_price,lower_ci,upper_ci,expected_profit,risk
+P001,100.0,95.0,91.0,99.0,28.5,0.05
+P002,150.0,153.0,147.0,159.0,45.9,0.05
+P003,200.0,204.0,196.0,212.0,61.2,0.05
