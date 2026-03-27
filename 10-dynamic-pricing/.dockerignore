@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data (we don't need raw data in the image)
+data/raw/
+data/processed/
+data/results/
+
+# Notebooks and training code
+notebooks/
+*.ipynb
+
+# Git
+.git/
+.gitignore
+
+# Docker
+docker-compose.yml
+.dockerignore
+README.md
+test_api.py
+requirements.txt        # We use requirements-api.txt instead

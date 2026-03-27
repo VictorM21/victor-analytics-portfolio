@@ -1,0 +1,12 @@
+services:
+  api:
+    build:
+      context: ..            # build context is the project root (one level up)
+      dockerfile: docker/Dockerfile   # path to Dockerfile relative to context
+    container_name: dynamic-pricing-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../data/results:/app/data/results      # persist batch results
+      - ../models/artifacts:/app/models/artifacts   # persist models
+    restart: unless-stopped
