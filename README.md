@@ -5,9 +5,9 @@
 
 ---
 
-## 👋 About Me
+## 👋 Data & AI Engineer
 
-Results-driven analytics professional with a Bachelor's in Data Science from Carleton University and hands‑on experience in financial operations at Thermo Fisher Scientific. I build end‑to‑end data systems – from pipelines and dashboards to Bayesian models and LLM‑powered APIs. Passionate about turning data into actionable insights and production‑ready tools.
+Open to work|Results-driven analytics professional with a Bachelor's in Data Science from Carleton University and hands‑on experience in financial operations at Thermo Fisher Scientific. I build end‑to‑end data systems – from pipelines and dashboards to Bayesian models and LLM‑powered APIs. Passionate about turning data into actionable insights and production‑ready tools.
 
 ---
 
@@ -22,6 +22,7 @@ Results-driven analytics professional with a Bachelor's in Data Science from Car
 | **ML & AI** | PyMC (Bayesian), Groq (LLM), A/B testing, Prompt Engineering |
 | **Databases** | SQLite, PostgreSQL, BigQuery |
 | **Tools** | Git, VS Code, Jupyter, FastAPI, Streamlit |
+| **LLM & GenAI**| Groq, Prompt Engineering, Confidence Scoring, HITL. |
 
 ---
 
@@ -81,4 +82,4 @@ Then open `http://localhost:8000/docs` for interactive API documentation.
 - **GitHub**: [VictorM21](https://github.com/VictorM21) (you're here!)
 - **LinkedIn**: [Olusegun Makanju](https://www.linkedin.com/in/olusegun-makanju-8107b2202/)
 
-I’m open to opportunities in data analytics, data engineering, machine learning, and LLM automation. Feel free to reach out!
+I’m open to opportunities. Feel free to reach out!
