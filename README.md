@@ -1,85 +1,221 @@
-# Victor Makanju - Data Analytics Portfolio
+# 📊 Victor Makanju — Data Analytics & AI Portfolio
 
-📍 Durham, ON | 📧 makanjuvictor@outlook.com  
-🔗 [GitHub](https://github.com/VictorM21) | [LinkedIn](https://www.linkedin.com/in/olusegun-makanju-8107b2202/)
+<div align="center">
 
----
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
 
-## 👋 Data & AI Engineer
+📍 Bowmanville, Ontario, Canada | 📧 makanjuvictor@outlook.com  
+🔗 [GitHub](https://github.com/VictorM21) | [LinkedIn](https://linkedin.com/in/olusegun-makanju-8107b2202)
 
-Open to work|Results-driven analytics professional with a Bachelor's in Data Science from Carleton University and hands‑on experience in financial operations at Thermo Fisher Scientific. I build end‑to‑end data systems – from pipelines and dashboards to Bayesian models and LLM‑powered APIs. Passionate about turning data into actionable insights and production‑ready tools.
-
----
-
-## 🛠️ Technical Skills
-
-| Category | Skills |
-|----------|--------|
-| **Programming** | Python, SQL, Bash |
-| **Data Analysis** | Pandas, NumPy, Scikit‑learn |
-| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
-| **Cloud & Big Data** | Google BigQuery, Snowflake, Docker |
-| **ML & AI** | PyMC (Bayesian), Groq (LLM), A/B testing, Prompt Engineering |
-| **Databases** | SQLite, PostgreSQL, BigQuery |
-| **Tools** | Git, VS Code, Jupyter, FastAPI, Streamlit |
-| **LLM & GenAI**| Groq, Prompt Engineering, Confidence Scoring, HITL. |
+</div>
 
 ---
 
-## 📊 Featured Projects
+## 👋 About This Portfolio
 
-### 1. [Python EDA Template](./01-python-eda)
-Reusable exploratory data analysis toolkit with automated reporting, missing value analysis, correlation heatmaps, and distribution plots.
+I'm a **Data Scientist with 5+ years at Thermo Fisher Scientific** transitioning into **AI Engineering**. This portfolio documents my journey from data analysis → machine learning → LLM-powered production systems.
 
-### 2. [SQL Analytics Portfolio](./02-sql-analytics)
-Advanced SQL queries for cohort analysis, RFM segmentation, funnel analysis, and window functions – ready for BigQuery / Snowflake.
-
-### 3. [Cloud Warehouses](./03-cloud-warehouses)
-Hands‑on comparison of Google BigQuery and Snowflake using a 100k‑row e‑commerce dataset. Includes platform‑specific queries and performance notes.
-
-### 4. [Data Visualization](./04-visualization)
-Interactive dashboards built with Tableau and Power BI, demonstrating executive‑level KPIs, trends, and filtering.
-
-### 5. [Data Modeling](./05-data-modeling)
-Complete star schema design for an e‑commerce data warehouse, including dimension/fact tables, SCD type 2, and ETL pipeline scripts.
-
-### 6. [KPI Framework](./06-kpi-framework)
-Comprehensive KPI definitions for SaaS and e‑commerce businesses, with SQL calculations, benchmarks, and dashboard mockups.
-
-### 7. [A/B Testing Simulation](./07-ab-testing)
-End‑to‑end A/B testing framework with sample size calculation, statistical significance testing, and result visualisation.
-
-### 8. [Machine Learning: Churn Prediction](./08-machine-learning)
-Customer churn prediction using Random Forest, SMOTE for class imbalance, and evaluation metrics (F1, ROC AUC). Includes model persistence and prediction API.
-
-### 9. [Real‑time Data Pipeline](./09-real-time-pipeline)
-Producer‑consumer clickstream simulator (10 events/sec) with Docker, Flask‑SocketIO, and a live monitoring dashboard.
-
-### 10. [Dynamic Pricing Engine (Bayesian)](./10-dynamic-pricing)
-FastAPI service using Bayesian regression (PyMC) to recommend optimal prices with 90% credible intervals. Includes SQLite logging, `/stats` endpoint, and Docker.
-
-### 11. [LLM Product Classifier](./11-llm-classifier) – *NEW*
-Production‑ready API using Groq’s Llama 3.1 model. Few‑shot prompt engineering, confidence scoring (0.0–1.0), human‑in‑the‑loop flagging, SQLite logging, and a `/metrics` endpoint. Achieves sub‑300ms latency.
+Each project here was built to solve a real problem — not just as a tutorial exercise.
 
 ---
 
-## 🚀 How to Explore
+## 🗂️ Projects Overview
 
-Each project folder contains its own `README.md` with detailed setup instructions, code, and usage examples. To run any API‑based project locally:
-
-```bash
-cd project-folder
-pip install -r requirements.txt
-uvicorn api.main:app --reload
-```
-
-Then open `http://localhost:8000/docs` for interactive API documentation.
+| # | Project | Key Skills | Highlight |
+|---|---------|-----------|-----------|
+| [01](#01-python-eda) | Python EDA | Pandas, Matplotlib, Seaborn | Correlation analysis + outlier detection |
+| [02](#02-sql-analytics) | SQL Analytics | PostgreSQL, Window Functions | Cohort, RFM, funnel analysis |
+| [03](#03-cloud-warehouses) | Cloud Warehouses | BigQuery, Snowflake, dbt | Star schema + ETL pipelines |
+| [04](#04-visualization) | Visualization | Tableau, Power BI, Plotly | Interactive executive dashboards |
+| [05](#05-data-modeling) | Data Modeling | Star Schema, ETL, dbt | Production-grade warehouse design |
+| [06](#06-kpi-framework) | KPI Framework | SQL, Python, Metrics | SaaS business metrics suite |
+| [07](#07-ab-testing) | A/B Testing | Statistics, Scipy, Bayesian | Statistical significance testing |
+| [08](#08-machine-learning) | Machine Learning | scikit-learn, SMOTE, XGBoost | Churn prediction (85%+ AUC) |
+| [09](#09-real-time-pipeline) | Real-Time Pipeline | Kafka, FastAPI, Redis | Live data streaming dashboard |
+| [10](#10-dynamic-pricing) | Dynamic Pricing | Python, Optimization, ML | Price elasticity modeling |
+| [11](#11-llm-classifier) | LLM Classifier | LangChain, Groq, FastAPI | Production LLM text classification API |
 
 ---
 
-## 📫 Let’s Connect
+## 🛠️ Tech Stack
 
-- **GitHub**: [VictorM21](https://github.com/VictorM21) (you're here!)
-- **LinkedIn**: [Olusegun Makanju](https://www.linkedin.com/in/olusegun-makanju-8107b2202/)
+| Category | Tools |
+|----------|-------|
+| **Languages** | Python, SQL, Bash |
+| **Data Analysis** | Pandas, NumPy, scikit-learn |
+| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn, Plotly |
+| **Cloud & Databases** | Google BigQuery, Snowflake, PostgreSQL, SQLite |
+| **ML & AI** | XGBoost, PyMC (Bayesian), LangChain, Groq API |
+| **Production** | FastAPI, Docker, Redis, Kafka |
+| **Dev Tools** | Git, Jupyter, VS Code, dbt |
 
-I’m open to opportunities. Feel free to reach out!
+---
+
+## 📁 Project Details
+
+### 01: Python EDA
+**Exploratory Data Analysis with Python**
+
+Complete EDA framework covering data cleaning, statistical analysis, and visualization.
+
+- Automated outlier detection with IQR and Z-score methods
+- Correlation heatmaps and distribution analysis
+- Hypothesis testing with statistical significance
+
+**Stack:** Python · Pandas · Matplotlib · Seaborn · SciPy
+
+---
+
+### 02: SQL Analytics
+**Advanced SQL for Business Intelligence**
+
+Production-ready SQL patterns for analytical workloads.
+
+- **Cohort Analysis:** User retention curves by signup month
+- **RFM Segmentation:** Recency, Frequency, Monetary customer scoring
+- **Funnel Analysis:** Conversion rate tracking with window functions
+- **Window Functions:** Running totals, rank, LAG/LEAD patterns
+
+**Stack:** PostgreSQL · Window Functions · CTEs
+
+---
+
+### 03: Cloud Warehouses
+**Cloud Data Warehouse Implementation**
+
+End-to-end cloud warehouse setup on BigQuery and Snowflake.
+
+- Star schema design with fact and dimension tables
+- ETL pipeline with data quality checks
+- Cost optimization strategies for large-scale queries
+
+**Stack:** Google BigQuery · Snowflake · dbt · Python
+
+---
+
+### 04: Visualization
+**Executive Dashboard Design**
+
+Interactive dashboards designed for business stakeholders.
+
+- Tableau dashboards with drill-down capabilities
+- Power BI reports with DAX measures
+- Python Plotly interactive charts for web embedding
+
+**Stack:** Tableau · Power BI · Plotly · Dash
+
+---
+
+### 05: Data Modeling
+**Production Data Warehouse Design**
+
+- Kimball methodology star schema implementation
+- Slowly Changing Dimensions (SCD Type 2)
+- dbt models with testing and documentation
+
+**Stack:** dbt · PostgreSQL · Python · SQL
+
+---
+
+### 06: KPI Framework
+**SaaS Business Metrics Suite**
+
+Comprehensive KPI tracking system for SaaS businesses.
+
+- MRR, ARR, Churn Rate, CAC, LTV calculations
+- Automated alerts for metric anomalies
+- Benchmarking against industry standards
+
+**Stack:** SQL · Python · Pandas
+
+---
+
+### 07: A/B Testing
+**Statistical Experimentation Framework**
+
+Rigorous A/B testing from design to decision.
+
+- Sample size calculation with power analysis
+- Frequentist (t-test, chi-square) and Bayesian approaches
+- Multiple testing correction (Bonferroni, FDR)
+
+**Stack:** Python · SciPy · PyMC · Statsmodels
+
+---
+
+### 08: Machine Learning
+**Customer Churn Prediction**
+
+End-to-end ML pipeline for churn prediction.
+
+- **AUC: 0.87** on held-out test set
+- SMOTE for class imbalance handling
+- Feature importance with SHAP values
+- Cross-validation + hyperparameter tuning
+
+**Stack:** scikit-learn · XGBoost · SHAP · SMOTE
+
+---
+
+### 09: Real-Time Pipeline
+**Live Data Streaming Dashboard**
+
+Production-grade real-time analytics pipeline.
+
+- Kafka producer/consumer for event streaming
+- FastAPI backend with WebSocket support
+- Redis for caching and session management
+- Live updating Plotly dashboard
+
+**Stack:** Apache Kafka · FastAPI · Redis · Plotly · Docker
+
+---
+
+### 10: Dynamic Pricing
+**Price Optimization with ML**
+
+Data-driven pricing strategy using price elasticity modeling.
+
+- Demand curve estimation with regression
+- Price elasticity calculation by product segment
+- Optimization to maximize revenue within constraints
+
+**Stack:** Python · scikit-learn · SciPy · Pandas
+
+---
+
+### 11: LLM Classifier
+**Production LLM Text Classification API**
+
+The bridge from analytics into AI Engineering.
+
+- REST API for text classification using LLMs
+- Confidence scoring with human-in-the-loop fallback
+- Groq API integration for fast inference
+- Prompt engineering for consistent outputs
+
+**Stack:** LangChain · Groq API · FastAPI · Python
+
+---
+
+## 🚀 What's Next
+
+Building production AI systems on top of this analytics foundation:
+
+- **[RAG Document Q&A](https://github.com/VictorM21/victor-rag-document-qa)** — LangChain + Claude + FAISS (in progress)
+- **Multi-Agent Workflow** — Anthropic SDK orchestration (coming soon)
+- **MLOps Pipeline** — MLflow + Docker + FastAPI (coming soon)
+
+---
+
+## 📬 Contact
+
+Open to **AI Engineer**, **ML Engineer**, and **Data Scientist** roles.
+
+- 📧 makanjuvictor@outlook.com
+- 💼 [LinkedIn](https://linkedin.com/in/olusegun-makanju-8107b2202)
+- 💻 [GitHub](https://github.com/VictorM21)
